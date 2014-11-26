@@ -2,6 +2,8 @@
 
 An Ruboty Handler + Actions to output Bestgems downloads or rank.
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-bestgems.svg)](http://badge.fury.io/rb/ruboty-bestgems)
+
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
 ## Installation
