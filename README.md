@@ -1,6 +1,6 @@
 # Ruboty::Bestgems
 
-An Ruboty Handler + Actions to output Bestgems downloads or rank.
+A Ruboty Handler + Actions to output Bestgems downloads or rank.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-bestgems.svg)](http://badge.fury.io/rb/ruboty-bestgems)
 
